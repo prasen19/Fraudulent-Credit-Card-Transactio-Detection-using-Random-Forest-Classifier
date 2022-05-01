@@ -8,7 +8,7 @@
 
 4. This was one of the Kaggle competition and the dataset was made available on Kaggle.
 
-5. The Results are Recall: 0.78, Precision: 0.93, F1 Score:0.85, AUC: 0.89
+5. The Results are Recall: 0.78,  Precision: 0.93,  F1 Score: 0.85,  AUC: 0.89
 
 
 
