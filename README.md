@@ -1,4 +1,4 @@
-# Fraudulent-Credit-Card-Transactio-Detection-using-Random-Forest-Classifier
+# Fraudulent-Credit-Card-Transaction-Detection-using-Random-Forest-Classifier
 
 1. Credit card companies must be able to recognize fraudulent credit card transactions in order to provide safe banking to their customers.
 
