@@ -4,7 +4,7 @@
 
 2. The Dataset is highly imbalanced. So we must achieve high recall such that we should not miss any fraud transaction. 
 
-3. We use Random Forest clasifier as it is giving highest recall compared with all other predefined methods.
+3. We use Random Forest classifier as it is giving highest recall compared with all other predefined methods.
 
 4. This was one of the Kaggle competition and the dataset was made available on Kaggle.
 
