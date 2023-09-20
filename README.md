@@ -1,5 +1,7 @@
 # Fraudulent Credit Card Transaction Detection
 
+![card](Credit card design.jpg)
+
 ## Overview
 1. Credit card companies must be able to recognize fraudulent credit card transactions in order to provide safe banking to their customers.
 2. The Dataset is highly imbalanced. So we must achieve high recall such that we should not miss any fraud transaction. 
