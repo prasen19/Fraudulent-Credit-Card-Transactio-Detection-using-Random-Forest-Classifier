@@ -73,4 +73,6 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
 1. True Positive Rate
 2. False Positive Rate
 
+![TPR](TPR.png)
+
 
