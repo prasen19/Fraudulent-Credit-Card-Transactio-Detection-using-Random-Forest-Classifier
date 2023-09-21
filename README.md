@@ -30,6 +30,6 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/credi
 8. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependent cost-sensitive learning.
 9. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
-**This is a highly imbalanced dataset with the following classes**
-**Class 0 - 284315**
-**Class 1 - 492**
+**This is a highly imbalanced dataset with the following classes**     
+**Class 0 - 284315**    
+**Class 1 - 492**   
