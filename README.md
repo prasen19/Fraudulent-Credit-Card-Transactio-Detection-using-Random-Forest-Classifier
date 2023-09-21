@@ -33,3 +33,22 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/credi
 **This is a highly imbalanced dataset with the following classes**     
 **Class 0 - 284315**    
 **Class 1 - 492**   
+
+## EDA and Feature Engineering 
+Most of the EDA and Feature Engineering work has been already done by the dataset provider.
+
+1. Read and view the data file.
+2. Make sure that all features are numeric and null values are removed completely.
+3. View and plot the class count.
+
+## Machine Learning Model
+The dataset is highly imbalanced so the model performance should be evaluated on Precision, Recall, F1 Score, Precision-Recall Curve, ROC Curve and AUC
+
+Precision: It tells us about what proportion of positive identifications was actually correct.
+
+Recall: It tells us about what proportion of actual positives was identified correctly.
+
+We can understand them better in mathematical models.
+
+
+
