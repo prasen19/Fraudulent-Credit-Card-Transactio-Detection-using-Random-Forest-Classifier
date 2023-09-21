@@ -4,12 +4,12 @@
 
 ## Overview
 1. Credit card companies must be able to recognize fraudulent credit card transactions in order to provide safe banking to their customers.
-2. The Dataset is highly imbalanced. So we must achieve high recall such that we should not miss any fraudulent transaction. 
+2. The Dataset is highly imbalanced. So we must achieve high recall such that we do not miss any fraudulent transactions. 
 3. This was one of the Kaggle competitions and the dataset was made available on Kaggle.
 
 ## Imbalanced Classification
 
-Please refer this [article](https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/) for how to deal with imbalanced data.
+Please refer to this [article](https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/) for how to deal with imbalanced data.
 
 Classification predictive modeling involves predicting a class label for a given observation.
 
@@ -29,3 +29,7 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/credi
 7. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset.
 8. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependent cost-sensitive learning.
 9. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
+
+**This is a highly imbalanced dataset with the following classes**
+**Class 0 - 284315**
+**Class 1 - 492**
