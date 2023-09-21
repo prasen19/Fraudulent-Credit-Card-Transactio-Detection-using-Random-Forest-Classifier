@@ -48,7 +48,15 @@ Precision: It tells us about what proportion of positive identifications was act
 
 Recall: It tells us about what proportion of actual positives was identified correctly.
 
-We can understand them better in mathematical models.
+We can understand them better in mathematical formulas as given below:
+![PR](PR.png)
 
+Where, TP: True Positive
+       TN: True Negative
+       FP: False Positive
+       TN: False Negative
 
+F1 Score: It is defined as the harmonic mean of precision and recall
+
+![F1](F1_score.png)
 
