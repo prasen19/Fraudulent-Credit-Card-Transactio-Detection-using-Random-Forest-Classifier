@@ -75,4 +75,14 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
 
 ![TPR](TPR.png)
 
+### 6. AUC
+AUC (Area under the ROC Curve) measures the entire two-dimensional area underneath the entire ROC curve.
+
+## Machine Learning Model
+
+In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+
+### 1. 
+
+
 
