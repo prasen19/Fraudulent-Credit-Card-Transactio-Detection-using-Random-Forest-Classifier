@@ -7,8 +7,16 @@
 2. The Dataset is highly imbalanced. So we must achieve high recall such that we should not miss any fraud transaction. 
 3. This was one of the Kaggle competition and the dataset was made available on Kaggle.
 
+## Imbalanced Classification
+
+Classification predictive modeling involves predicting a class label for a given observation.
+
+An imbalanced classification problem is an example of a classification problem where the distribution of examples across the known classes is biased or skewed. The distribution can vary from a slight bias to a severe imbalance where there is one example in the minority class for hundreds, thousands, or millions of examples in the majority class or classes.
+
+Imbalanced classifications pose a challenge for predictive modeling as most of the machine learning algorithms used for classification were designed around the assumption of an equal number of examples for each class. This results in models that have poor predictive performance, specifically for the minority class. This is a problem because typically, the minority class is more important and therefore the problem is more sensitive to classification errors for the minority class than the majority class.
+
 ## Dataset
-The dataset can be downloaded [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
 1. The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 2. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
