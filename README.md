@@ -44,9 +44,11 @@ Most of the EDA and Feature Engineering work has been already done by the datase
 ## Evaluation and Metrics for Imbalanced Data
 The dataset is highly imbalanced so the model performance should be evaluated on Precision, Recall, F1 Score, Precision-Recall Curve, ROC Curve and AUC
 
-Precision: It tells us about what proportion of positive identifications was actually correct.
+### 1. Precision
+It tells us about what proportion of positive identifications was actually correct.
 
-Recall: It tells us about what proportion of actual positives was identified correctly.
+### 2. Recall 
+It tells us about what proportion of actual positives was identified correctly.
 
 We can understand them better in mathematical formulas as given below:
 
@@ -57,7 +59,18 @@ Where, TP: True Positive
        FP: False Positive
        TN: False Negative
 
-F1 Score: It is defined as the harmonic mean of precision and recall
+### 3. F1 Score
+It is defined as the harmonic mean of precision and recall
 
 ![F1](F1_score.png)
+
+### 4. Precision-Recall Curve
+It is simply a graph with Precision values on the y-axis and Recall values on the x-axis.
+
+### 5. ROC Curve
+A ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters:
+
+1. True Positive Rate
+2. False Positive Rate
+
 
