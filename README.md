@@ -41,7 +41,7 @@ Most of the EDA and Feature Engineering work has been already done by the datase
 2. Make sure that all features are numeric and null values are removed completely.
 3. View and plot the class count.
 
-## Machine Learning Model
+## Evaluation and Metrics for Imbalanced Data
 The dataset is highly imbalanced so the model performance should be evaluated on Precision, Recall, F1 Score, Precision-Recall Curve, ROC Curve and AUC
 
 Precision: It tells us about what proportion of positive identifications was actually correct.
@@ -49,6 +49,7 @@ Precision: It tells us about what proportion of positive identifications was act
 Recall: It tells us about what proportion of actual positives was identified correctly.
 
 We can understand them better in mathematical formulas as given below:
+
 ![PR](PR.png)
 
 Where, TP: True Positive
