@@ -104,9 +104,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Gradient Boosting Classifier Performance
 
-**Recall    -**   
-**Precision -**   
-**F1 Score  -**   
+**Recall    -0.64**   
+**Precision -0.80**   
+**F1 Score  -0.71**   
 
 ### Confusion Matrix
 
@@ -133,9 +133,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Random Forest Classifier Performance
 
-**Recall    -**    
-**Precision -**   
-**F1 Score  -**    
+**Recall    -0.71**    
+**Precision -0.95**   
+**F1 Score  -0.81**    
 
 ### Confusion Matrix
 
@@ -162,9 +162,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### XGBoost Classifier Performance
 
-**Recall    -**    
-**Precision -**   
-**F1 Score  -**    
+**Recall    -0.75**    
+**Precision -0.94**   
+**F1 Score  -0.83**    
 
 ### Confusion Matrix
 
