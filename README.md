@@ -87,7 +87,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ## Gradient Boosting Classifier
 
-##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+In this **highly imbalanced** data, we should **not miss** any **fraudulent transactions.**        
+
+That means we want **False Negative** to be **as minimum as possible** or **0** and hence we must achieve **high Recall.**
 
 ### Model fitting using Gradient Boosting Classifier
 
@@ -122,7 +124,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ## Random Forest Classifier
 
-##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall. 
+In this **highly imbalanced** data, we should **not miss** any **fraudulent transactions.**        
+
+That means we want **False Negative** to be **as minimum as possible** or **0** and hence we must achieve **high Recall.**
 
 ### Model fitting using Random Forest Classifier
 
@@ -157,7 +161,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ## XGBoost Classifier
 
-##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+In this **highly imbalanced** data, we should **not miss** any **fraudulent transactions.**       
+
+That means we want **False Negative** to be **as minimum as possible** or **0** and hence we must achieve **high Recall.**
 
 ### Model fitting using XGBoost Classifier
 
@@ -190,6 +196,9 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ![roc3](ROC_curve3.png)
 
+## Conclusion
+
+The **XGBoost Classifier** is **performing slightly better** than the **Random Forest Classifier** and **way better** than the **Gradient Boosting Classifier.**
 
 
 
