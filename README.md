@@ -80,9 +80,13 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ## Machine Learning Model
 
-In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+In this **highly imbalanced** data, we should not **miss** any **fraudulent transaction** and hence we must achieve **high Recall.**
 
-### 1. 
+### 1. Gradient Boosting Classifier
+
+
+
+
 
 
 
