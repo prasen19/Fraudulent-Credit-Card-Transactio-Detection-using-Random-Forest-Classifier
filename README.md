@@ -114,7 +114,11 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Precision-Recall Curve
 
+![PR1](PR_curve1.png)
+
 ### ROC curve and AUC
+
+![roc1](ROC_curve1.png)
 
 ## Random Forest Classifier
 
@@ -145,7 +149,11 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Precision-Recall Curve
 
+![PR1](PR_curve1.png)
+
 ### ROC curve and AUC
+
+![roc2](ROC_curve2.png)
 
 ## XGBoost Classifier
 
@@ -176,7 +184,11 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Precision-Recall Curve
 
+![PR1](PR_curve1.png)
+
 ### ROC curve and AUC
+
+![roc3](ROC_curve3.png)
 
 
 
