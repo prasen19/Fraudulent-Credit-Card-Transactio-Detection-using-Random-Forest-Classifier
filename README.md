@@ -102,6 +102,22 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### ROC curve and AUC
 
+## Gradient Boosting Classifier
+
+##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+
+### Model fitting using Gradient Boosting Classifier
+
+1. Split the dataset into train and test sets.
+2. Random Forest does not require any feature scaling.
+3. Import and fit the model.
+4. Predict for test data.
+6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+7. Plot the Confusion Matrix for y_test and y_pred.
+8. Plot the Precision-Recall curve for y_test and y_pred.
+9. Plot the ROC curve for y_test and y_pred.
+10. Calculate the AUC between y_test and y_pred.
+
 ### Random Forest Classifier Performance
 
 ### Confusion Matrix
@@ -109,6 +125,22 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 ### Precision-Recall Curve
 
 ### ROC curve and AUC
+
+## Gradient Boosting Classifier
+
+##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+
+### Model fitting using Gradient Boosting Classifier
+
+1. Split the dataset into train and test sets.
+2. XGBoost does not require any feature scaling.
+3. Import and fit the model.
+4. Predict for test data.
+6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+7. Plot the Confusion Matrix for y_test and y_pred.
+8. Plot the Precision-Recall curve for y_test and y_pred.
+9. Plot the ROC curve for y_test and y_pred.
+10. Calculate the AUC between y_test and y_pred.
 
 ### XGBoost Classifier Performance
 
