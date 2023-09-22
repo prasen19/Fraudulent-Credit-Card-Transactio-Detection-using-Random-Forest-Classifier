@@ -78,11 +78,47 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
 ### 6. AUC
 AUC (Area under the ROC Curve) measures the entire two-dimensional area underneath the entire ROC curve.
 
-## Machine Learning Model
+## Gradient Boosting Classifier
 
-In this **highly imbalanced** data, we should not **miss** any **fraudulent transaction** and hence we must achieve **high Recall.**
+##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
 
-### 1. Gradient Boosting Classifier
+### Model fitting using Gradient Boosting Classifier
+
+1. Split the dataset into train and test sets.
+2. Gradient Boosting does not require any feature scaling.
+3. Import and fit the model.
+4. Predict for test data.
+6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+7. Plot the Confusion Matrix for y_test and y_pred.
+8. Plot the Precision-Recall curve for y_test and y_pred.
+9. Plot the ROC curve for y_test and y_pred.
+10. Calculate the AUC between y_test and y_pred.
+
+### Gradient Boosting Classifier Performance
+
+### Confusion Matrix
+
+### Precision-Recall Curve
+
+### ROC curve and AUC
+
+### Random Forest Classifier Performance
+
+### Confusion Matrix
+
+### Precision-Recall Curve
+
+### ROC curve and AUC
+
+### XGBoost Classifier Performance
+
+### Confusion Matrix
+
+### Precision-Recall Curve
+
+### ROC curve and AUC
+
+
 
 
 
