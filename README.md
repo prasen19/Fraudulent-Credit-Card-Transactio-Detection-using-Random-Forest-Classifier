@@ -110,6 +110,8 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Confusion Matrix
 
+![cm1](cm1.png)
+
 ### Precision-Recall Curve
 
 ### ROC curve and AUC
@@ -139,6 +141,8 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### Confusion Matrix
 
+![cm1](cm1.png)
+
 ### Precision-Recall Curve
 
 ### ROC curve and AUC
@@ -167,6 +171,8 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 **F1 Score  -0.83**    
 
 ### Confusion Matrix
+
+![cm1](cm1.png)
 
 ### Precision-Recall Curve
 
