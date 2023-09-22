@@ -64,6 +64,13 @@ It is defined as the harmonic mean of precision and recall
 
 ![F1](F1_score.png)
 
+### 4. Confusion Matrix
+It is a table that is used in classification problems to assess where errors in the model were made.  
+
+The rows represent the actual classes and the columns represent the predictions we have made. Using this table it is easy to see which predictions are wrong.
+
+![cm](cm.png)
+
 ### 4. Precision-Recall Curve
 It is simply a graph with Precision values on the y-axis and Recall values on the x-axis.
 
