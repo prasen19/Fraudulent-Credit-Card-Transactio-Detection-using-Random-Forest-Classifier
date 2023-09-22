@@ -95,13 +95,18 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 2. Gradient Boosting does not require any feature scaling.
 3. Import and fit the model.
 4. Predict for test data.
-6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
-7. Plot the Confusion Matrix for y_test and y_pred.
-8. Plot the Precision-Recall curve for y_test and y_pred.
-9. Plot the ROC curve for y_test and y_pred.
-10. Calculate the AUC between y_test and y_pred.
+5. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+6. Plot the Confusion Matrix for y_test and y_pred.
+7. Plot the Precision-Recall curve for y_test and y_pred.
+8. Plot the ROC curve for y_test and y_pred.
+9. Calculate the AUC between y_test and y_pred.
+10. Check for Recall as best performance parameter.
 
 ### Gradient Boosting Classifier Performance
+
+**Recall    -** 
+**Precision -**
+**F1 Score  -**
 
 ### Confusion Matrix
 
@@ -119,13 +124,18 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 2. Random Forest does not require any feature scaling.
 3. Import and fit the model.
 4. Predict for test data.
-6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
-7. Plot the Confusion Matrix for y_test and y_pred.
-8. Plot the Precision-Recall curve for y_test and y_pred.
-9. Plot the ROC curve for y_test and y_pred.
-10. Calculate the AUC between y_test and y_pred.
+5. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+6. Plot the Confusion Matrix for y_test and y_pred.
+7. Plot the Precision-Recall curve for y_test and y_pred.
+8. Plot the ROC curve for y_test and y_pred.
+9. Calculate the AUC between y_test and y_pred.
+10. Check for Recall as best performance parameter.
 
 ### Random Forest Classifier Performance
+
+**Recall    -** 
+**Precision -**
+**F1 Score  -**
 
 ### Confusion Matrix
 
@@ -143,13 +153,18 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 2. XGBoost does not require any feature scaling.
 3. Import and fit the model.
 4. Predict for test data.
-6. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
-7. Plot the Confusion Matrix for y_test and y_pred.
-8. Plot the Precision-Recall curve for y_test and y_pred.
-9. Plot the ROC curve for y_test and y_pred.
-10. Calculate the AUC between y_test and y_pred.
+5. Evaluate Recall, Precision and F1 Score between y_test and y_pred.
+6. Plot the Confusion Matrix for y_test and y_pred.
+7. Plot the Precision-Recall curve for y_test and y_pred.
+8. Plot the ROC curve for y_test and y_pred.
+9. Calculate the AUC between y_test and y_pred.
+10. Check for Recall as best performance parameter.
 
 ### XGBoost Classifier Performance
+
+**Recall    -** 
+**Precision -**
+**F1 Score  -**
 
 ### Confusion Matrix
 
