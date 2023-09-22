@@ -102,11 +102,11 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### ROC curve and AUC
 
-## Gradient Boosting Classifier
+## Random Forest Classifier
 
 ##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
 
-### Model fitting using Gradient Boosting Classifier
+### Model fitting using Random Forest Classifier
 
 1. Split the dataset into train and test sets.
 2. Random Forest does not require any feature scaling.
@@ -126,11 +126,11 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ### ROC curve and AUC
 
-## Gradient Boosting Classifier
+## XGBoost Classifier
 
 ##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
 
-### Model fitting using Gradient Boosting Classifier
+### Model fitting using XGBoost Classifier
 
 1. Split the dataset into train and test sets.
 2. XGBoost does not require any feature scaling.
