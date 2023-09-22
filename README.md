@@ -116,7 +116,7 @@ AUC (Area under the ROC Curve) measures the entire two-dimensional area undernea
 
 ## Random Forest Classifier
 
-##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall.
+##### In this highly imbalanced data, we should not miss any fraudulent transaction and hence we must achieve high Recall. 
 
 ### Model fitting using Random Forest Classifier
 
