@@ -200,8 +200,7 @@ That means we want **False Negative** to be **as minimum as possible** or **0** 
 
 The **XGBoost Classifier** is **performing slightly better** than the **Random Forest Classifier** and **way better** than the **Gradient Boosting Classifier.**
 
-### Now, let's jump into the Jupyter Notebook and begin the Coding work.
-
+### Now, let's jump into the Jupyter Notebook and take a look at the Python Code Implementation.
 
 
 
